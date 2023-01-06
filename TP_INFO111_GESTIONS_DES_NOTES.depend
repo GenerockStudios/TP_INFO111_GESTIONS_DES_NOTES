@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1672956531 source:c:\ligs\tp_info111_gestions_des_notes\matiere.c
+	<stdio.h>
+	<stdlib.h>
+	"Matiere.h"
+
+1672956559 source:c:\ligs\tp_info111_gestions_des_notes\note.c
+	<stdio.h>
+	<stdlib.h>
+	"Note.h"
+
+1672997459 source:c:\ligs\tp_info111_gestions_des_notes\eleve.c
+
+1673001306 c:\ligs\tp_info111_gestions_des_notes\matiere.h
+
+1672956559 c:\ligs\tp_info111_gestions_des_notes\note.h
+
+1672997626 c:\ligs\tp_info111_gestions_des_notes\eleve.h
+
+1673010215 source:c:\ligs\tp_info111_gestions_des_notes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matiere.h"
+	"Eleve.h"
+	"Note.h"
+	"main.h"
+
+1673008743 c:\ligs\tp_info111_gestions_des_notes\main.h
+
