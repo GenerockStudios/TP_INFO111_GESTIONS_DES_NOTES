@@ -6,3 +6,6 @@ Enoncé dans le fichier "TP_INF111.pdf"
 > 2-Compiler les fichiers main.c et main.h, une compilation simple sufiira sur code blocks
 
 > 3-N'hésitez pas à modifier le code comme bon vous semble
+
+## Rendu
+![alt tag](https://github">github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
