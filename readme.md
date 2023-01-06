@@ -8,4 +8,4 @@ Enoncé dans le fichier "TP_INF111.pdf"
 > 3-N'hésitez pas à modifier le code comme bon vous semble
 
 ## Rendu
-![alt tag](https://github">github.com/[username]/[reponame]/blob/[branch]/exemple.jpg?raw=true)
+![This is an image](/exemple.png)
